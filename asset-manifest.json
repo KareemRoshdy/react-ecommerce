@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.d01a93ff.css",
+    "main.js": "/react-ecommerce/static/js/main.5d595004.js",
+    "static/media/bootstrap-icons.woff?": "/react-ecommerce/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-ecommerce/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/react-ecommerce/index.html",
+    "main.d01a93ff.css.map": "/react-ecommerce/static/css/main.d01a93ff.css.map",
+    "main.5d595004.js.map": "/react-ecommerce/static/js/main.5d595004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d01a93ff.css",
+    "static/js/main.5d595004.js"
+  ]
+}
